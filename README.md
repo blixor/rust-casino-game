@@ -1,4 +1,4 @@
-# Multi-Chain-Casino
+# Casino
 Completed Casino(Crash, Coinflip, Mines, BlackJack, etc) supported multi-chain coins(eth, sol, base, bitcoin, inj)
 
 # User-friendly Casino Games
@@ -15,7 +15,7 @@ By using strong encryption ways, all backend calling and data management process
 For comfortable game management for the team, it has real-time tracking dashboard for every games.
 
 <p>
-  <a href="mailto:dev.blixor@gmail.com" target="_blank">
+  <a href="mailto:dev.blixor@outlook.com" target="_blank">
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
